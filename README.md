@@ -7,7 +7,22 @@ Null Island is an ephemeral geography, a foggy ship of state sailing thru autumn
 
 ### Graphics
 
-Download and use the 2013 Null Island [SVG file](./graphics/null_island_2013.svg).
+Download and use the 2013 Null Island [SVG file](./graphics/null-island-2013.svg).
+
+### GeoJSON
+
+Boundaries for your maps [GeoJSON](./GeoJSON/null-island.geojson).
+
+### Buoy and TeeShirt
+
+- [Buoy](./Buoy/null-island-buoy.png).
+- [TShirt](Buoy/Tshirt_2015_NullIslandBuoy.jpg)
+
+## Credits
+
+- SVG from [@gnip](https://github.com/gnip)
+- GeoJSON from [@nitxa](https://github.com/nixta)
+- Buoy from [@souperneon](https://github.com/souperneon)
 
 ## Licence
 
