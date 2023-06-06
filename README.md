@@ -24,6 +24,11 @@ Boundaries for your maps [GeoJSON](./GeoJSON/null-island.geojson).
 - GeoJSON from [@nitxa](https://github.com/nixta)
 - Buoy from [@souperneon](https://github.com/souperneon)
 
+## Related
+
+- Alternative [Tshirt design](https://github.com/yetzt/null-island) (public domain, CC0 by [vis.social/@yetzt](https://vis.social/@yetzt))
+
+
 ## Licence
 
 null-island (c) by tsamaya
